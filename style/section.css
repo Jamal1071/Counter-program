@@ -1,0 +1,14 @@
+/* 
+*
+* section.css
+* author - Jamal
+* date - 11 octobar 2022
+*/
+
+.wrapper {
+    display: grid;
+    grid-template-rows: 70px 80px 60px;
+    justify-content: center;
+    grid-row-gap: 10px;
+    margin: 250px 0 250px 0;
+}
